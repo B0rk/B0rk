@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/26283277/236601960-b3129085-3cd1-40ee-8d4c-70b1562753ac.png)
+
 
 <!--
 **B0rk/B0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
