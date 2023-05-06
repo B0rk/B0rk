@@ -1,7 +1,14 @@
-# Hacking All The Things, All The Time... ![image](https://user-images.githubusercontent.com/26283277/236602265-ef9d507c-5bd2-40b8-90df-1bd847b7ec77.png)
-## Except When I'm Not...
-![image](https://user-images.githubusercontent.com/26283277/236602410-a314fc04-1132-4ab6-857c-0b9e61392e08.png)
+# Hacking All The Things, All The Time... Except When I'm Not...
 
+## Certifications
+OSCP(https://www.credly.com/badges/c2d57418-3297-4a84-90f0-60ec121a6b45)
+CNVP(https://www.credly.com/badges/93de4792-28d2-488e-9a22-a962b9625dc8)
+Pentest+(https://www.credly.com/badges/46474ca9-9f8b-4615-b2f2-b37e6dce5f7b)
+Security+(https://www.credly.com/badges/6b6ca7f3-07ec-45e0-9ddb-829f48b14c82)
+eCPPTv2
+eJPT
+CPT
+MCP
 
 <!--
 **B0rk/B0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
