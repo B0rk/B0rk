@@ -1,5 +1,10 @@
 # Hacking All The Things, All The Time... ![image](https://user-images.githubusercontent.com/26283277/236602265-ef9d507c-5bd2-40b8-90df-1bd847b7ec77.png)
 ## Except When I'm Not...
+![image](https://user-images.githubusercontent.com/26283277/236602410-a314fc04-1132-4ab6-857c-0b9e61392e08.png)
+![image](https://user-images.githubusercontent.com/26283277/236602480-cf369a6b-2fcd-4bd9-a729-02b9dd3b1de5.png)
+![image](https://user-images.githubusercontent.com/26283277/236602492-96029054-0ade-4a29-850b-b618baa6d9fc.png)
+![image](https://user-images.githubusercontent.com/26283277/236602509-38836ccc-70b6-4b7a-b465-016ad310a58a.png)
+
 
 <!--
 **B0rk/B0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
