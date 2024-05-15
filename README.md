@@ -2,7 +2,7 @@
 
 ## Certifications
 [OSCP](https://www.credly.com/badges/c2d57418-3297-4a84-90f0-60ec121a6b45)<br />
-PNPT(br />
+PNPT<br />
 eCPTXv2<br />
 eCPPTv2<br />
 eJPT<br />
