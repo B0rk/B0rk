@@ -2,19 +2,12 @@
 
 ## Certifications
 OSCP
-
 PNPT
-
 eCPTXv2
-
 eCPPTv2
-
 eWPTv2
-
 eJPT
-
 CPSA
-
 CRT
 
 <!--
