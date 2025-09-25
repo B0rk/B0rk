@@ -1,15 +1,5 @@
 # Hacking All The Things, All The Time... Except When I'm Not...
 
-## Certifications
-OSCP
-PNPT
-eCPTXv2
-eCPPTv2
-eWPTv2
-eJPT
-CPSA
-CRT
-
 <!--
 **B0rk/B0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
